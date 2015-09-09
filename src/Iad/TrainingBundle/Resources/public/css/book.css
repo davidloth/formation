@@ -1,0 +1,6 @@
+.tab_show_book { font-size:12px; border:solid 1px #D0DBB3; }
+.tab_show_book tbody { background-color:#F1F7E2; border:solid 1px #D0DBB3; }
+
+.tab_index_book { font-size:12px; border:solid 1px #D0DBB3; }
+.tab_index_book thead { background-color:#F1F7E2; border:solid 1px #D0DBB3; }
+.tab_index_book tbody { border:solid 1px #D0DBB3; }
